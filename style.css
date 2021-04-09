@@ -1,0 +1,26 @@
+body{margin:0;}
+.main{height:100%;width:100%;font-family:sans-serif;}
+.logo>img{margin-left:200px;width:50px;height:50px;}
+.list{list-style-type: none;}
+.header{display:flex;position: fixed;background-color: white;width: 100%;}
+.listdiv{margin-left: 500px;}
+.list>li{margin-left:20px;display:inline-flex;font-weight: bolder;color:grey}
+.text{margin-left:200px;width:100%;}
+.image>span>img{width:700px;height:550px;}
+.headings{width:400px;}
+.heading1{padding-top:150px;font-size:50px;font-weight:5px;}
+.text{display:inline-flex;}
+.input{height:35px;width:200px;border:0px;border-radius: 2px;box-shadow:2px 2px 5px 2px lightgray;}
+.btn{height:40px;width:120px;text-align: center;color:white;background-color: rgb(95, 184, 95);border: none;border-radius:5px;box-shadow:2px 2px 5px 2px lightgray;}
+.text2{margin-left:200px;display: inline-flex;}
+.image2{width:450px;}
+.image2>span>img{width:400px;height:400px;}
+.text2>.texttwo>span>p{margin-left:50px;color: rgb(255, 196, 0);font-size: 20px;}
+.text2>.texttwo>h2{margin-right:200px;margin-left:50px;}
+.text2>.texttwo>p{margin-right:200px;margin-left:50px;}
+.text2>.texttwo>button{margin-right:200px;margin-left:50px;height:50px;width:150px;text-align: center;color:white;background-color: rgb(95, 184, 95);border: none;border-radius:5px;box-shadow:2px 2px 5px 2px lightgray;}
+.para{color: rgb(255, 196, 0);font-size: 20px;text-align: center;}
+ .heading3{text-align: center;font-size:x-large;font-weight:bolder}
+ .cards{width:100%;margin-left: 200px;display:flex;}
+ .card1{height:240px;width:240px;background-color: rgb(253, 250, 250);margin-left: 20px;}
+ 
