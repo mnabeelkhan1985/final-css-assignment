@@ -20,7 +20,15 @@ body{margin:0;}
 .text2>.texttwo>p{margin-right:200px;margin-left:50px;}
 .text2>.texttwo>button{margin-right:200px;margin-left:50px;height:50px;width:150px;text-align: center;color:white;background-color: rgb(95, 184, 95);border: none;border-radius:5px;box-shadow:2px 2px 5px 2px lightgray;}
 .para{color: rgb(255, 196, 0);font-size: 20px;text-align: center;}
- .heading3{text-align: center;font-size:x-large;font-weight:bolder}
- .cards{width:100%;margin-left: 200px;display:flex;}
+ .heading3{text-align:center;font-size:x-large;font-weight:bolder}
+ .cards{width:100%;margin-left: 180px;display:flex;}
  .card1{height:240px;width:240px;background-color: rgb(253, 250, 250);margin-left: 20px;}
- 
+ .card1>img{margin-top:50px;margin-left:85px;}
+ .cards>.card1>p{text-align: center;}
+ .card1:hover:active{border-bottom: rgb(95, 184, 95);}
+ .cardss{margin-left: 160px;display:flex;}
+ .listdiv1>.list1>li{list-style-type:none ;line-height:50px;font-weight: bolder;color:gainsboro;}
+.btn1{color:lightgrey;border:none;border-left:3px solid lightgray;background-color: white;height:55px;}
+.btn1:hover:active{color: rgb(255, 196, 0);border-left: rgb(255, 196, 0);}
+.card2>img{width:100px;height:150px;}
+.card2{margin-left:100px;}
